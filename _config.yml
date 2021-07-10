@@ -6,10 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-
+title: Welcome to Vidal Coding's homepage!
+theme: jekyll-theme-midnight
+description: This is my first venture into making a website.
 # Your name to show in the footer
-author: Some Person
+author: Vidal Mangal
 
 # --- List of links in the navigation bar --- #
 
