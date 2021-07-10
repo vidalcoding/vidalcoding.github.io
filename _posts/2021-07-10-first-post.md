@@ -2,6 +2,9 @@
 layout: post
 title: My First Post
 subtitle: My First Foray into Website Creation
+tags:[personal]
+readtime: true
+
 ---
 
 ```python
